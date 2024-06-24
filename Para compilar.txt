@@ -1,0 +1,2 @@
+gcc -o bridge bridge.c -lpthread -lncurses
+./bridge
